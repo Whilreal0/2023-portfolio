@@ -103,9 +103,9 @@ export default {
       },
       {
         title: "Simple To Do List",
-        link: "https://todoapp-bywhil.netlify.app/",
-        stack: ["Vue.js, Vuetify"],
-        description: "Manage tasks easily with simple CRUD to-do list app.",
+        link: "todo-app-using-vuex.netlify.app",
+        stack: ["Vue.js, Vuetify", "Vuex"],
+        description: "Manage tasks easily with simple CRUD to-do list app using VUEX.",
         img: [require("@/assets/Images/Todolist.jpg")],
         showOverlay: false,
       },
